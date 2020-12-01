@@ -1,1 +1,7 @@
-# Uppon acceptance of our paper, the dataset will be published here
+# AudioLens: Audio-Aware Video Recommendation for Mitigating New Item Problem
+
+## Updated
+
+- 01.12.2020 === add raw dataset and paper
+
+
